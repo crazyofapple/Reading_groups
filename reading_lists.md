@@ -66,7 +66,7 @@
 
 【大模型的binary implicature resolution任务，这种暗示难并没有缩放现象】Large language models are not zero-shot communicators （https://github.com/google/BIG-bench/tree/main/bigbench/benchmark_tasks/implicatures）
 
-【不同训练数据集上的多个已模型合并方法】Dataless Knowledge Fusion by Merging Weights of Language Models
+【不同数据集上的多个已训练模型合并方法】Dataless Knowledge Fusion by Merging Weights of Language Models
 
 【用于从未注释的示例池中选择好的候选作为ICL的数据库】Selective Annotation Makes Language Models Better Few-Shot Learners
 
