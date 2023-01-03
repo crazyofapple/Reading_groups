@@ -76,7 +76,7 @@ Mass-Editing Memory in a Transformer
 
 【PRONTOQA数据集测试CoT推理能力，发现Planning能力仍受限】Language Models Can (kind of) Reason: A Systematic Formal Analysis of Chain-of-Thought
 
-PromptBoosting: Black-Box Text Classification with Ten Forward Passes~~
+PromptBoosting: Black-Box Text Classification with Ten Forward Passes
 
 Attention-Guided Backdoor Attacks against Transformers
 
