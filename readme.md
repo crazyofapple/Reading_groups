@@ -6,6 +6,8 @@
 
 ```类似想法 2. LAMBADA: Backward Chaining for Automated Reasoning in Natural Language```
 
+```类似想法 3. 【选择和推理】Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning```
+
 【大模型直接产生证据上下文】Generate rather than Retrieve: Large Language Models are Strong Context Generators
 
 【中英文的大模型，超过GPT-3】GLM-130B: An Open Bilingual Pre-trained Model
@@ -133,6 +135,8 @@ Towards Boosting the Open-Domain Chatbot with Human Feedback
 【很有启发，将问题通过GPT迭代分解为子问题并回答】Measuring and Narrowing the Compositionality Gap in Language Models
 
 ```类似想法 Least-to-Most Prompting Enables Complex Reasoning in Large Language Models ```
+
+Knowledge Unlearning for Mitigating Privacy Risks in Language Models
 
 【短文本训练，长文本测试，评估模型的变长适应能力】A Length-Extrapolatable Transformer
 
