@@ -205,7 +205,7 @@ Language model acceptability judgements are not always robust to context
 
 【检索-生成证据流程下的安全场景的方法】Foveate, Attribute, and Rationalize: Towards Safe and Trustworthy AI
 
-【GPT-3用于数据标注（如情感分类），但我们已经有了GPT-3为什么还需要标注呢】Is GPT-3 a Good Data Annotator?
+【GPT-3用于数据标注（如情感分类）】Is GPT-3 a Good Data Annotator?
 
 【很有启发，基于beam search的文本生成式信息抽取片段的置信度估计】How Does Beam Search improve Span-Level Confidence Estimation in Generative Sequence Labeling?
 
