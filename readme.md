@@ -2,6 +2,10 @@
 
 【应用ICL的多步推理方法，很有启发】ReAct: Synergizing Reasoning and Acting in Language Models
 
+```类似想法 1. DEMONSTRATE–SEARCH–PREDICT:Composing retrieval and language models for knowledge-intensive NLP ```
+
+```类似想法 2. LAMBADA: Backward Chaining for Automated Reasoning in Natural Language```
+
 【大模型直接产生证据上下文】Generate rather than Retrieve: Large Language Models are Strong Context Generators
 
 【中英文的大模型，超过GPT-3】GLM-130B: An Open Bilingual Pre-trained Model
@@ -105,6 +109,30 @@ Towards Conditionally Dependent Masked Language Models
 【目标：为维基百科中某些参考文献支持的Query生成一篇事实正确的文章】WebBrain: Learning to Generate Factually Correct Articles for Queries by Grounding on Large Web Corpus
 
 【自动构建CoT中的样例的解释并用于CoT】Automatic Chain of Thought Prompting in Large Language Models
+
+【reasoning数据集】WikiWhy: Answering and Explaining Cause-and-Effect Questions
+
+【reasoning数据集】STREET: A MULTI-TASK STRUCTURED REASONING AND EXPLANATION BENCHMARK
+
+Towards Boosting the Open-Domain Chatbot with Human Feedback
+
+【寻找预训练影响子集】ORCA: Interpreting Prompted Language Models via Locating Supporting Evidence in the Ocean of Pretraining Data
+
+【离散提示的跨语言模型研究】Can discrete information extraction prompts generalize across language models?
+
+【新的神经架构 (FOLNet)，其中包含一阶逻辑归纳偏差】Learning Language Representations with Logical Inductive Bias
+
+【将外部物理模拟器的结果结合在context中】Mind's Eye: Grounded Language Model Reasoning through Simulation
+
+【提示工程，针对的是Instruction，一阶段生成二阶段排序过滤】Large Language Models are Human-Level Prompt Engineers
+
+【对比一致搜索 (CCS)无监督识别语言模型中的潜在（二元）知识】Discovering Latent Knowledge in Language Models Without Supervision
+
+【记忆率与训练中的模型大小、前缀长度和重复率呈对数线性关系】Quantifying Memorization Across Neural Language Models
+
+【很有启发，将问题通过GPT迭代分解为子问题并回答】Measuring and Narrowing the Compositionality Gap in Language Models
+
+```类似想法 Least-to-Most Prompting Enables Complex Reasoning in Large Language Models ```
 
 【短文本训练，长文本测试，评估模型的变长适应能力】A Length-Extrapolatable Transformer
 
