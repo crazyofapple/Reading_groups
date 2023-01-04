@@ -8,6 +8,8 @@
 
 ```类似想法 3. 【选择和推理】Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning```
 
+What learning algorithm is in-context learning? Investigations with linear models
+
 【大模型直接产生证据上下文】Generate rather than Retrieve: Large Language Models are Strong Context Generators
 
 【中英文的大模型，超过GPT-3】GLM-130B: An Open Bilingual Pre-trained Model
