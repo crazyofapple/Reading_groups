@@ -38,6 +38,9 @@ Promptagator: Few-shot Dense Retrieval From 8 Examples
 
 【三个臭皮匠，顶个诸葛亮】Self-Consistency Improves Chain of Thought Reasoning in Language Models
 
+```【用知识作为臭皮匠的参考】Rethinking with Retrieval: Faithful Large Language Model Inference```
+
+
 【反转，输入和标签为条件生成指令】Guess the Instruction! Making Language Models Stronger Zero-Shot Learners
 
 【对抽取式摘要黄金标签的探讨】Text Summarization with Oracle Expectation
@@ -118,6 +121,8 @@ Towards Conditionally Dependent Masked Language Models
 
 【reasoning数据集】STREET: A MULTI-TASK STRUCTURED REASONING AND EXPLANATION BENCHMARK
 
+【reasoning数据集，比较OPT预训练和微调，包括CoT微调模型】 ALERT: Adapting Language Models to Reasoning Tasks
+
 Towards Boosting the Open-Domain Chatbot with Human Feedback
 
 【寻找预训练影响子集】ORCA: Interpreting Prompted Language Models via Locating Supporting Evidence in the Ocean of Pretraining Data
@@ -137,6 +142,8 @@ Towards Boosting the Open-Domain Chatbot with Human Feedback
 【很有启发，将问题通过GPT迭代分解为子问题并回答】Measuring and Narrowing the Compositionality Gap in Language Models
 
 ```类似想法 Least-to-Most Prompting Enables Complex Reasoning in Large Language Models ```
+
+```类似想法 Successive Prompting for Decomposing Complex Questions```
 
 Knowledge Unlearning for Mitigating Privacy Risks in Language Models
 
@@ -217,6 +224,13 @@ SPT: Semi-Parametric Prompt Tuning for Multitask Prompted Learning
 
 【让小模型学会CoT能力】In-context Learning Distillation: Transferring Few-shot Learning Ability of Pre-trained Language Models
 
+```类似想法 【知识蒸馏】 Teaching Small Language Models to Reason```
+
+```类似想法很多，包括KAIST和Xiang Ren组和这一篇Large Language Models Are Reasoning Teachers```
+
 【长文本的ICL方法】Parallel Context Windows Improve In-Context Learning of Large Language Models
 
+【InstructGPT模型自己生成ICL的样例】Self-Prompting Large Language Models for Open-Domain QA
+
+【zero-shot CoT在敏感问题下会表现出bias和toxicity】 On Second Thought, Let’s Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning
 
