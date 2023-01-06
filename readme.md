@@ -71,6 +71,8 @@ Mass-Editing Memory in a Transformer
 
 【自我迭代生成（利用python验证过）训练数据】Language Models Can Teach Themselves to Program Better
 
+```相关文章： STaR: Bootstrapping Reasoning With Reasoning, 来自Neurips 22 (生成CoT数据用于模型微调）, 引起后续一系列教小模型的CoT的文章```
+
 【GMM建模ICL决策分类边界从而校准】Prototypical Calibration for Few-shot Learning of Language Models
 
 【改写问题，以及基于图的ICL聚合方法】Ask Me Anything: A simple strategy for prompting language models
