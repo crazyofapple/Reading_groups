@@ -234,3 +234,5 @@ SPT: Semi-Parametric Prompt Tuning for Multitask Prompted Learning
 
 【zero-shot CoT在敏感问题下会表现出bias和toxicity】 On Second Thought, Let’s Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning
 
+Measuring the Human Utility of Free-Text Rationales in Human-AI Collaboration
+
