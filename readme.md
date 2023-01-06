@@ -157,6 +157,8 @@ Knowledge Unlearning for Mitigating Privacy Risks in Language Models
 
 【人类-AI语言交互评价框架】Evaluating Human-Language Model Interaction
 
+```类似文章 Measuring the Human Utility of Free-Text Rationales in Human-AI Collaboration```
+
 GanLM: Encoder-Decoder Pre-training with an Auxiliary Discriminator
 
 Go-tuning: Improving Zero-shot Learning Abilities of Smaller Language Models
@@ -183,7 +185,11 @@ Parsel: A Unified Natural Language Framework for Algorithmic Reasoning
 
 【近期reasoning文章的总结，来自UIUC的Jie Huang】Towards Reasoning in Large Language Models: A Survey
 
+【浙大张宁豫团队对近期reasoning的总结】Reasoning with Language Model Prompting: A Survey
+
 【OSU研究CoT哪个部分对性能有效】Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters
+
+```类似想法 Complementary Explanations for Effective In-Context Learning (UT Austin, Xi Ye, Greg Durrett) ```
 
 【对OPT模型进行不同大小训练的过程研究，发现困惑度是ICL的指标】Training Trajectories of Language Models Across Scales
 
@@ -194,8 +200,6 @@ Parsel: A Unified Natural Language Framework for Algorithmic Reasoning
 【ICL是另一种形式的gradient更新】Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta Optimizers
 
 【不需要人工选样例的ICL展示生成方法】Z-ICL: Zero-Shot In-Context Learning with Pseudo-Demonstrations
-
-【浙大张宁豫团队对近期reasoning的总结】Reasoning with Language Model Prompting: A Survey
 
 【很有启发，对CoT生成的解释进行调整】Explanation Regeneration via Information Bottleneck
 
@@ -233,6 +237,3 @@ SPT: Semi-Parametric Prompt Tuning for Multitask Prompted Learning
 【InstructGPT模型自己生成ICL的样例】Self-Prompting Large Language Models for Open-Domain QA
 
 【zero-shot CoT在敏感问题下会表现出bias和toxicity】 On Second Thought, Let’s Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning
-
-Measuring the Human Utility of Free-Text Rationales in Human-AI Collaboration
-
