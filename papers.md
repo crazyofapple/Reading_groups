@@ -30,3 +30,5 @@ Characteristics of Harmful Text: Towards Rigorous Benchmarking of Language Model
 
 Red Teaming Language Models with Language Models 	https://openreview.net/forum?id=S5ZMSUX_gq
 
+Language Models (Mostly) Know What They Know https://arxiv.org/pdf/2207.05221.pdf
+
