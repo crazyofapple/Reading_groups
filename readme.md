@@ -232,7 +232,7 @@ SPT: Semi-Parametric Prompt Tuning for Multitask Prompted Learning
 
 ```类似想法 【知识蒸馏】 Teaching Small Language Models to Reason```
 
-```类似想法很多，包括KAIST和Xiang Ren组和这一篇Large Language Models Are Reasoning Teachers```
+```类似想法很多，包括KAIST和Xiang Ren组（【CoT的rationale微调（教授）时进行扰动】PINTO: Faithful Language Reasoning Using Prompt-Generated Rationales等）和这一篇Large Language Models Are Reasoning Teachers和ETH的【CoT的数据分别训练问题分解和问题解答模型】Distilling Multi-Step Reasoning Capabilites of Large Language Models into Smaller Models via Semantic Decompositions```
 
 【长文本的ICL方法】Parallel Context Windows Improve In-Context Learning of Large Language Models
 
