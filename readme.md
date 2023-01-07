@@ -42,7 +42,6 @@ Promptagator: Few-shot Dense Retrieval From 8 Examples
 
 ```【用知识作为臭皮匠的参考】Rethinking with Retrieval: Faithful Large Language Model Inference```
 
-
 【反转，输入和标签为条件生成指令】Guess the Instruction! Making Language Models Stronger Zero-Shot Learners
 
 【对抽取式摘要黄金标签的探讨】Text Summarization with Oracle Expectation
@@ -106,6 +105,8 @@ What Matters In The Structured Pruning of Generative Language Models?
 Towards Conditionally Dependent Masked Language Models
 
 【迭代地校准不完美生成的独立校正器，Sean Welleck的后续文章】Generating Sequences by Learning to Self-Correct
+
+```类似想法 Constitutional AI: Harmlessness from AI Feedback ```
 
 【压缩FiD输入向量的长度，且输出时重新排序来输出文档排名】FiD-Light: Efficient and Effective Retrieval-Augmented Text Generation
 
