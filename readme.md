@@ -1,6 +1,7 @@
 ## ICLR 2023 和 ACL 2023的预印版
 
 【应用ICL的多步推理方法，很有启发】ReAct: Synergizing Reasoning and Acting in Language Models
+```类似想法 0. TALM: Tool Augmented Language Models```
 
 ```类似想法 1. DEMONSTRATE–SEARCH–PREDICT:Composing retrieval and language models for knowledge-intensive NLP ```
 
