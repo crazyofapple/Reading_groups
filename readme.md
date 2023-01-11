@@ -184,6 +184,8 @@ Parsel: A Unified Natural Language Framework for Algorithmic Reasoning
 
 【自动生成Instruction tuning的数据用于GPT-3的训练】Self-Instruct: Aligning Language Model with Self Generated Instructions
 
+```(FLAN-T5-CoT) Scaling Instruction-Finetuned Language Models ```
+
 【信息提取式生成模型的源和目标分词不一致问题】Tokenization Consistency Matters for Generative Models on Extractive NLP Tasks
 
 【精读，可读的prompt无监督选择方法，GPT-2】Toward Human Readable Prompt Tuning: Kubrick's The Shining is a good movie, and a good prompt too?
