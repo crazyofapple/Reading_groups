@@ -206,6 +206,8 @@ Parsel: A Unified Natural Language Framework for Algorithmic Reasoning
 
 【ICL是另一种形式的gradient更新】Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta Optimizers
 
+```相关文章：Transformers learn in-context by gradient descent```
+
 【不需要人工选样例的ICL展示生成方法】Z-ICL: Zero-Shot In-Context Learning with Pseudo-Demonstrations
 
 【很有启发，对CoT生成的解释进行调整】Explanation Regeneration via Information Bottleneck
@@ -227,7 +229,7 @@ Language model acceptability judgements are not always robust to context
 
 【GPT-3用于数据标注（如情感分类）】Is GPT-3 a Good Data Annotator?
 
-【很有启发，基于beam search的文本生成式信息抽取片段的置信度估计】How Does Beam Search improve Span-Level Confidence Estimation in Generative Sequence Labeling?
+【基于beam search的文本生成式信息抽取片段的置信度估计】How Does Beam Search improve Span-Level Confidence Estimation in Generative Sequence Labeling?
 
 【归纳推理的自然语言方式】Language Models as Inductive Reasoners
 
