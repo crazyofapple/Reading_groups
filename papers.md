@@ -32,3 +32,16 @@ Red Teaming Language Models with Language Models 	https://openreview.net/forum?
 
 Language Models (Mostly) Know What They Know https://arxiv.org/pdf/2207.05221.pdf
 
+Emergent Abilities of Large Language Models https://arxiv.org/abs/2206.07682 
+
+```
+参考文章: 
+Memorizing Transformers https://arxiv.org/abs/2203.08913
+Surface Form Competition: Why the Highest Probability Answer Isn’t Always Right https://aclanthology.org/2021.emnlp-main.564/
+Frequency Effects on Syntactic Rule Learning in Transformers https://aclanthology.org/2021.emnlp-main.72/
+A Mathematical Exploration of Why Language Models Help Solve Downstream Tasks https://arxiv.org/abs/2010.03648
+Improving language models by retrieving from trillions of tokens https://arxiv.org/abs/2112.04426
+Semi-Supervised Learning for Natural Language https://www-cs.stanford.edu/~pliang/papers/meng-thesis.pdf
+Phase transitions in artificial intelligence systems https://www.sciencedirect.com/science/article/abs/pii/0004370287900336
+```
+
