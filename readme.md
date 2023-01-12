@@ -70,10 +70,6 @@ Mass-Editing Memory in a Transformer
 
 【多种知识源MoE半参数知识融合模型】Knowledge-in-Context: Towards Knowledgeable Semi-Parametric Language Models
 
-【自我迭代生成（利用python验证过）训练数据】Language Models Can Teach Themselves to Program Better
-
-```相关文章： STaR: Bootstrapping Reasoning With Reasoning, 来自Neurips 22 (生成CoT数据用于模型微调）, 引起后续一系列教小模型的CoT的文章```
-
 【GMM建模ICL决策分类边界从而校准】Prototypical Calibration for Few-shot Learning of Language Models
 
 【改写问题，以及基于图的ICL聚合方法】Ask Me Anything: A simple strategy for prompting language models
@@ -119,8 +115,6 @@ Towards Conditionally Dependent Masked Language Models
 【GPT-3的测试，包括记忆，校准，偏见等】Prompting GPT-3 To Be Reliable
 
 【目标：为维基百科中某些参考文献支持的Query生成一篇事实正确的文章】WebBrain: Learning to Generate Factually Correct Articles for Queries by Grounding on Large Web Corpus
-
-【自动构建CoT中的样例的解释并用于CoT】Automatic Chain of Thought Prompting in Large Language Models
 
 【reasoning数据集】WikiWhy: Answering and Explaining Cause-and-Effect Questions
 
@@ -174,8 +168,6 @@ Go-tuning: Improving Zero-shot Learning Abilities of Smaller Language Models
 
 Is GPT-3 a Psychopath? Evaluating Large Language Models from a Psychological Perspective
 
-【大模型教小模型CoT】Large Language Models Are Reasoning Teachers
-
 Parsel: A Unified Natural Language Framework for Algorithmic Reasoning
 
 【基于state-space models的预训练语言模型，超过BERT】Pretraining Without Attention
@@ -210,7 +202,7 @@ Parsel: A Unified Natural Language Framework for Algorithmic Reasoning
 
 【不需要人工选样例的ICL展示生成方法】Z-ICL: Zero-Shot In-Context Learning with Pseudo-Demonstrations
 
-【很有启发，对CoT生成的解释进行调整】Explanation Regeneration via Information Bottleneck
+【对CoT生成的解释进行二次调整，用带参数的refiner模块+信息熵优化】Explanation Regeneration via Information Bottleneck
 
 【任务Instruction和文本一起生成Embedding】One Embedder, Any Task: Instruction-Finetuned Text Embeddings
 
@@ -235,7 +227,15 @@ Language model acceptability judgements are not always robust to context
 
 SPT: Semi-Parametric Prompt Tuning for Multitask Prompted Learning
 
+【自动构建CoT中的样例的解释并用于CoT】Automatic Chain of Thought Prompting in Large Language Models
+
 【让小模型学会CoT能力】In-context Learning Distillation: Transferring Few-shot Learning Ability of Pre-trained Language Models
+
+【大模型教小模型CoT】Large Language Models Are Reasoning Teachers
+
+【自我迭代生成（利用python验证过）训练数据】Language Models Can Teach Themselves to Program Better
+
+```相关文章： STaR: Bootstrapping Reasoning With Reasoning, 来自Neurips 22 (生成CoT数据用于模型微调）, 引起后续一系列教小模型的CoT的文章```
 
 ```类似想法 【知识蒸馏】 Teaching Small Language Models to Reason```
 
