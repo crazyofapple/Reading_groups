@@ -231,6 +231,8 @@ Language model acceptability judgements are not always robust to context
 
 SPT: Semi-Parametric Prompt Tuning for Multitask Prompted Learning
 
+【不同Prompt序列困惑度越低性能越好】 Demystifying Prompts in Language Models via Perplexity Estimation
+
 【自动构建CoT中的样例的解释并用于CoT】Automatic Chain of Thought Prompting in Large Language Models
 
 【让小模型学会CoT能力】In-context Learning Distillation: Transferring Few-shot Learning Ability of Pre-trained Language Models
