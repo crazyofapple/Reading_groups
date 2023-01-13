@@ -188,7 +188,11 @@ Parsel: A Unified Natural Language Framework for Algorithmic Reasoning
 
 【OSU研究CoT哪个部分对性能有效】Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters
 
-```类似想法 Complementary Explanations for Effective In-Context Learning (UT Austin, Xi Ye, Greg Durrett) ```
+```
+类似想法 
+Complementary Explanations for Effective In-Context Learning (UT Austin, Xi Ye, Greg Durrett) 
+Text and Patterns: For Effective Chain of Thought, It Takes Two to Tango
+```
 
 【对OPT模型进行不同大小训练的过程研究，发现困惑度是ICL的指标】Training Trajectories of Language Models Across Scales
 
