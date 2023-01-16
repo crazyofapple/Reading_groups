@@ -1,16 +1,14 @@
-## ICLR 2023 和 ACL 2023的预印版
+## 一些关于LLM和当前热点的文章（分享），包括ICLR 2023 和 ACL 2023的预印版
 
 【应用ICL的多步推理方法，很有启发】ReAct: Synergizing Reasoning and Acting in Language Models
 
-```类似想法 0. TALM: Tool Augmented Language Models```
-
-```类似想法 1. DEMONSTRATE–SEARCH–PREDICT:Composing retrieval and language models for knowledge-intensive NLP ```
-
-```类似想法 2. LAMBADA: Backward Chaining for Automated Reasoning in Natural Language```
-
-```类似想法 3. 【选择和推理】Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning```
-
-```类似想法 4.  Language Models as Agent Models```
+```
+类似想法 0. TALM: Tool Augmented Language Models```
+类似想法 1. DEMONSTRATE–SEARCH–PREDICT:Composing retrieval and language models for knowledge-intensive NLP
+类似想法 2. LAMBADA: Backward Chaining for Automated Reasoning in Natural Language
+类似想法 3. 【选择和推理】Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning
+类似想法 4.  Language Models as Agent Models
+```
 
 What learning algorithm is in-context learning? Investigations with linear models
 
@@ -142,9 +140,10 @@ Towards Boosting the Open-Domain Chatbot with Human Feedback
 
 【很有启发，将问题通过GPT迭代分解为子问题并回答】Measuring and Narrowing the Compositionality Gap in Language Models
 
-```类似想法 Least-to-Most Prompting Enables Complex Reasoning in Large Language Models ```
-
-```类似想法 Successive Prompting for Decomposing Complex Questions```
+```
+类似想法 Least-to-Most Prompting Enables Complex Reasoning in Large Language Models
+类似想法 Successive Prompting for Decomposing Complex Questions
+```
 
 Knowledge Unlearning for Mitigating Privacy Risks in Language Models
 
@@ -249,14 +248,16 @@ SPT: Semi-Parametric Prompt Tuning for Multitask Prompted Learning
 
 【自我迭代生成（利用python验证过）训练数据】Language Models Can Teach Themselves to Program Better
 
-```相关文章： STaR: Bootstrapping Reasoning With Reasoning, 来自Neurips 22 (生成CoT数据用于模型微调）, 引起后续一系列教小模型的CoT的文章```
-
-```类似想法 【知识蒸馏】 Teaching Small Language Models to Reason```
-
-```类似想法很多，包括KAIST和Xiang Ren组（【CoT的rationale微调（教授）时进行扰动】PINTO: Faithful Language Reasoning Using Prompt-Generated Rationales等）和这一篇Large Language Models Are Reasoning Teachers和ETH的【CoT的数据分别训练问题分解和问题解答模型】Distilling Multi-Step Reasoning Capabilites of Large Language Models into Smaller Models via Semantic Decompositions```
+```
+相关文章： STaR: Bootstrapping Reasoning With Reasoning, 来自Neurips 22 (生成CoT数据用于模型微调）, 引起后续一系列教小模型的CoT的文章
+类似想法 【知识蒸馏】 Teaching Small Language Models to Reason
+类似想法很多，包括KAIST和Xiang Ren组（【CoT的rationale微调（教授）时进行扰动】PINTO: Faithful Language Reasoning Using Prompt-Generated Rationales等）和这一篇Large Language Models Are Reasoning Teachers和ETH的【CoT的数据分别训练问题分解和问题解答模型】Distilling Multi-Step Reasoning Capabilites of Large Language Models into Smaller Models via Semantic Decompositions
+```
 
 【长文本的ICL方法】Parallel Context Windows Improve In-Context Learning of Large Language Models
 
 【InstructGPT模型自己生成ICL的样例】Self-Prompting Large Language Models for Open-Domain QA
 
 【zero-shot CoT在敏感问题下会表现出bias和toxicity】 On Second Thought, Let’s Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning
+
+【精读，人机交互很看好的方向】Evaluating Human-Language Model Interaction
