@@ -10,6 +10,8 @@
 
 ```类似想法 3. 【选择和推理】Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning```
 
+```类似想法 5.  Language Models as Agent Models```
+
 What learning algorithm is in-context learning? Investigations with linear models
 
 【大模型直接产生证据上下文】Generate rather than Retrieve: Large Language Models are Strong Context Generators
@@ -216,6 +218,12 @@ Text and Patterns: For Effective Chain of Thought, It Takes Two to Tango
 Language model acceptability judgements are not always robust to context
 
 【调查检索式模型的特点，发现两者均对reasoning有限】Can Retriever-Augmented Language Models Reason? The Blame Game Between the Retriever and the Language Model
+
+``` 
+检索式+LLM的想法是下一步的方向，但是不是唯一的答案还需要看看
+Rethink Search: Making Domain Experts out of Dilettantes
+Attributed Question Answering: Evaluation and Modeling for Attributed Large Language Models
+```
 
 【对GPT-3类似公务员那种智力题类比测试】Emergent Analogical Reasoning in Large Language Models
 
