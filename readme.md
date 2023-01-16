@@ -10,7 +10,7 @@
 
 ```类似想法 3. 【选择和推理】Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning```
 
-```类似想法 5.  Language Models as Agent Models```
+```类似想法 4.  Language Models as Agent Models```
 
 What learning algorithm is in-context learning? Investigations with linear models
 
