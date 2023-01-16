@@ -1,4 +1,4 @@
-## 一些关于LLM和当前热点的文章（分享），包括ICLR 2023 和 ACL 2023的预印版
+## 关于LLM和当前热点的文章，包括ICLR 2023 和 ACL 2023的预印版
 
 【应用ICL的多步推理方法，很有启发】ReAct: Synergizing Reasoning and Acting in Language Models
 
