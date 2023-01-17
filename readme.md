@@ -149,6 +149,8 @@ Towards Boosting the Open-Domain Chatbot with Human Feedback
 
 Knowledge Unlearning for Mitigating Privacy Risks in Language Models
 
+Editing models with task arithmetic
+
 【短文本训练，长文本测试，评估模型的变长适应能力】A Length-Extrapolatable Transformer
 
 【回顾数学推理和DL的任务、数据集和方法】A Survey of Deep Learning for Mathematical Reasoning
@@ -259,6 +261,8 @@ SPT: Semi-Parametric Prompt Tuning for Multitask Prompted Learning
 类似想法很多，包括KAIST和Xiang Ren组（【CoT的rationale微调（教授）时进行扰动】PINTO: Faithful Language Reasoning Using Prompt-Generated Rationales等）和这一篇Large Language Models Are Reasoning Teachers和ETH的【CoT的数据分别训练问题分解和问题解答模型】Distilling Multi-Step Reasoning Capabilites of Large Language Models into Smaller Models via Semantic Decompositions
 ```
 
+【生成预测时采用相似度选phrase而不是softmax预测token】Nonparametric Masked Language Modeling
+
 【长文本的ICL方法】Parallel Context Windows Improve In-Context Learning of Large Language Models
 
 【InstructGPT模型自己生成ICL的样例】Self-Prompting Large Language Models for Open-Domain QA
@@ -270,3 +274,7 @@ SPT: Semi-Parametric Prompt Tuning for Multitask Prompted Learning
 A Survey on Natural Language Processing for Programming
 
 【Grounding+LLM的系列文章接下来会有很多】LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models
+
+Momentum Calibration for Text Generation
+
+【个性化风格的prompt学习，OPT】Extensible Prompts for Language Models
