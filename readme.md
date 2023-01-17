@@ -8,6 +8,7 @@
 类似想法 2. LAMBADA: Backward Chaining for Automated Reasoning in Natural Language
 类似想法 3.【选择和推理】Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning
 类似想法 4. Language Models as Agent Models
+类似想法 5. Prompting Is Programming: A Query Language For Large Language Models
 ```
 
 What learning algorithm is in-context learning? Investigations with linear models
@@ -154,6 +155,8 @@ Knowledge Unlearning for Mitigating Privacy Risks in Language Models
 
 【两种ICL样例选择的方法，基于OPT和GPTJ的实验】Careful Data Curation Stabilizes In-context Learning
 
+【语义解析任务，ICL的样例选择方法，CODEX和T5-large】Diverse Demonstrations Improve In-context Compositional Generalization
+
 【很有启发，自由文本约束下的文本生成方法】Controllable Text Generation with Language Constraints
 
 【人类-AI语言交互评价框架】Evaluating Human-Language Model Interaction
@@ -189,6 +192,8 @@ Language model acceptability judgements are not always robust to context
 【近期reasoning文章的总结，来自UIUC的Jie Huang】Towards Reasoning in Large Language Models: A Survey
 
 【浙大张宁豫团队对近期reasoning的总结】Reasoning with Language Model Prompting: A Survey
+
+【复旦肖仰华团队对文本生成技术和方向的总结】Harnessing Knowledge and Reasoning for Human-Like Natural Language Generation: A Brief Review
 
 【OSU研究CoT哪个部分对性能有效】Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters
 
@@ -260,3 +265,8 @@ SPT: Semi-Parametric Prompt Tuning for Multitask Prompted Learning
 
 【zero-shot CoT在敏感问题下会表现出bias和toxicity】 On Second Thought, Let’s Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning
 
+【通过分组和注意力机制使得ICL能够输入更多的标注样本】Structured Prompting: Scaling In-Context Learning to 1,000 Examples
+
+A Survey on Natural Language Processing for Programming
+
+【Grounding+LLM的系列文章接下来会有很多】LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models
