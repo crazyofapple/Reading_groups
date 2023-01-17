@@ -9,6 +9,7 @@
 类似想法 3.【选择和推理】Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning
 类似想法 4. Language Models as Agent Models
 类似想法 5. Prompting Is Programming: A Query Language For Large Language Models
+类似想法 6.【Neurips 22'】Language Model Cascades 
 ```
 
 What learning algorithm is in-context learning? Investigations with linear models
