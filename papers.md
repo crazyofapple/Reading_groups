@@ -1,3 +1,9 @@
+Yao Fu的两篇系列文章
+
+Yoav Goldberg的remark：https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9 以及 https://gist.github.com/yoavg/001cca8ab6de3f20650192da17117292
+
+Talking About Large Language Models https://arxiv.org/pdf/2212.03551.pdf
+
 Teaching Models to Express Their Uncertainty in Words	https://openreview.net/forum?id=8s8K2UZGTZ
 
 Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks	https://openreview.net/forum?id=Gn49ByHQG9
