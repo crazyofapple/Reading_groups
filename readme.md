@@ -6,8 +6,8 @@
 类似想法 0. TALM: Tool Augmented Language Models```
 类似想法 1. DEMONSTRATE–SEARCH–PREDICT:Composing retrieval and language models for knowledge-intensive NLP
 类似想法 2. LAMBADA: Backward Chaining for Automated Reasoning in Natural Language
-类似想法 3. 【选择和推理】Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning
-类似想法 4.  Language Models as Agent Models
+类似想法 3.【选择和推理】Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning
+类似想法 4. Language Models as Agent Models
 ```
 
 What learning algorithm is in-context learning? Investigations with linear models
@@ -141,6 +141,7 @@ Towards Boosting the Open-Domain Chatbot with Human Feedback
 【很有启发，将问题通过GPT迭代分解为子问题并回答】Measuring and Narrowing the Compositionality Gap in Language Models
 
 ```
+【研究是否或什么时候分步作答对阅读有效，零样本和低资源有效】When Do Decompositions Help for Machine Reading?
 类似想法 Least-to-Most Prompting Enables Complex Reasoning in Large Language Models
 类似想法 Successive Prompting for Decomposing Complex Questions
 ```
@@ -165,8 +166,6 @@ Go-tuning: Improving Zero-shot Learning Abilities of Smaller Language Models
 
 【不用每次都输入指令和样例，将其转换为参数高效模块，】HINT: Hypernetwork Instruction Tuning for Efficient Zero-Shot Generalisation
 
-【检索增强的CoT做知识Intensive的任务】Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions
-
 Is GPT-3 a Psychopath? Evaluating Large Language Models from a Psychological Perspective
 
 Parsel: A Unified Natural Language Framework for Algorithmic Reasoning
@@ -177,7 +176,11 @@ Parsel: A Unified Natural Language Framework for Algorithmic Reasoning
 
 【自动生成Instruction tuning的数据用于GPT-3的训练】Self-Instruct: Aligning Language Model with Self Generated Instructions
 
-```(FLAN-T5-CoT) Scaling Instruction-Finetuned Language Models ```
+```
+【和yizhong wang那篇类似自动生成Instruction的数据，面向T0】Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor
+Language model acceptability judgements are not always robust to context
+(FLAN-T5-CoT) Scaling Instruction-Finetuned Language Models 
+```
 
 【信息提取式生成模型的源和目标分词不一致问题】Tokenization Consistency Matters for Generative Models on Extractive NLP Tasks
 
@@ -197,10 +200,6 @@ Text and Patterns: For Effective Chain of Thought, It Takes Two to Tango
 
 【对OPT模型进行不同大小训练的过程研究，发现困惑度是ICL的指标】Training Trajectories of Language Models Across Scales
 
-【研究是否或什么时候分步作答对阅读有效，零样本和低资源有效】When Do Decompositions Help for Machine Reading?
-
-【什么时候检索，什么时候用大模型足够】When Not to Trust Language Models: Investigating Effectiveness and Limitations of Parametric and Non-Parametric Memories
-
 【ICL是另一种形式的gradient更新】Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta Optimizers
 
 ```相关文章：Transformers learn in-context by gradient descent```
@@ -213,8 +212,9 @@ Text and Patterns: For Effective Chain of Thought, It Takes Two to Tango
 
 【大模型教小模型CoT】KNIFE: Knowledge Distillation with Free-Text Rationales
 
-【和yizhong wang那篇类似自动生成Instruction的数据，面向T0】Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor
-Language model acceptability judgements are not always robust to context
+【什么时候检索，什么时候用大模型足够】When Not to Trust Language Models: Investigating Effectiveness and Limitations of Parametric and Non-Parametric Memories
+
+【检索增强的CoT做知识Intensive的任务】Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions
 
 【调查检索式模型的特点，发现两者均对reasoning有限】Can Retriever-Augmented Language Models Reason? The Blame Game Between the Retriever and the Language Model
 
@@ -260,4 +260,3 @@ SPT: Semi-Parametric Prompt Tuning for Multitask Prompted Learning
 
 【zero-shot CoT在敏感问题下会表现出bias和toxicity】 On Second Thought, Let’s Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning
 
-【精读，人机交互很看好的方向】Evaluating Human-Language Model Interaction
