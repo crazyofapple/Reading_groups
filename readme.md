@@ -281,3 +281,7 @@ Momentum Calibration for Text Generation
 【个性化风格的prompt学习，OPT】Extensible Prompts for Language Models
 
 【CoT直接生成program code，然后让python interpreter执行】Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks
+```
+相关文章：【EMNLP 22'】Language Models of Code are Few-Shot Commonsense Learners
+【Heng Ji组】Code4Struct: Code Generation for Few-Shot Structured Prediction from Natural Language
+```
