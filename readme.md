@@ -279,3 +279,5 @@ A Survey on Natural Language Processing for Programming
 Momentum Calibration for Text Generation
 
 【个性化风格的prompt学习，OPT】Extensible Prompts for Language Models
+
+【CoT直接生成program code，然后让python interpreter执行】Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks
