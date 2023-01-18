@@ -275,6 +275,9 @@ SPT: Semi-Parametric Prompt Tuning for Multitask Prompted Learning
 A Survey on Natural Language Processing for Programming
 
 【Grounding+LLM的系列文章接下来会有很多】LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models
+```
+比如说： Do As I Can, Not As I Say: Grounding Language in Robotic Affordances  （https://say-can.github.io/）
+```
 
 Momentum Calibration for Text Generation
 
