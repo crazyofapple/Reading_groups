@@ -1,3 +1,9 @@
+Surface Form Competition: Why the Highest Probability Answer Isn’t Always Right https://arxiv.org/pdf/2104.08315.pdf
+
+Self-critiquing models for assisting human evaluators https://arxiv.org/pdf/2206.05802.pdf
+
+How Many Data Points is a Prompt Worth? https://arxiv.org/pdf/2103.08493.pdf
+
 Yao Fu的两篇系列文章
 
 Yoav Goldberg的remark：https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9 以及 https://gist.github.com/yoavg/001cca8ab6de3f20650192da17117292
