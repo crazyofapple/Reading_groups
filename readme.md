@@ -104,7 +104,10 @@ Towards Conditionally Dependent Masked Language Models
 
 【迭代地校准不完美生成的独立校正器，Sean Welleck的后续文章】Generating Sequences by Learning to Self-Correct
 
-```类似想法 Constitutional AI: Harmlessness from AI Feedback ```
+```
+预测：AI反馈很快会取代人工用户反馈用于模型更新 
+类似想法 Constitutional AI: Harmlessness from AI Feedback 
+```
 
 【压缩FiD输入向量的长度，且输出时重新排序来输出文档排名】FiD-Light: Efficient and Effective Retrieval-Augmented Text Generation
 
