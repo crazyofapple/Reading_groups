@@ -9,6 +9,8 @@
 【应用ICL的多步推理方法，很有启发】ReAct: Synergizing Reasoning and Acting in Language Models
 
 ```
+langchain - Building applications with LLMs through composability
+
 类似想法 0. TALM: Tool Augmented Language Models
 类似想法 1. DEMONSTRATE–SEARCH–PREDICT:Composing retrieval and language models for knowledge-intensive NLP
 类似想法 2. LAMBADA: Backward Chaining for Automated Reasoning in Natural Language
