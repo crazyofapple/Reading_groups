@@ -200,6 +200,7 @@ Language model acceptability judgements are not always robust to context
 SUPER-NATURALINSTRUCTIONS: Generalization via Declarative Instructions on 1600+ NLP Tasks
 (FLAN-T5-CoT) Scaling Instruction-Finetuned Language Models 
 ```
+![image](https://user-images.githubusercontent.com/3351073/214972577-e9fb27a6-55a8-40b6-b38f-cbb68a115739.png)
 
 【信息提取式生成模型的源和目标分词不一致问题】Tokenization Consistency Matters for Generative Models on Extractive NLP Tasks
 
