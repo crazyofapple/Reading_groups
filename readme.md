@@ -198,7 +198,7 @@ Parsel: A Unified Natural Language Framework for Algorithmic Reasoning
 【和yizhong wang那篇类似自动生成Instruction的数据，面向T0】Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor
 Language model acceptability judgements are not always robust to context
 SUPER-NATURALINSTRUCTIONS: Generalization via Declarative Instructions on 1600+ NLP Tasks
-(FLAN-T5-CoT) Scaling Instruction-Finetuned Language Models 
+(FLAN-T5-CoT) 【CoT微调】Scaling Instruction-Finetuned Language Models  
 ```
 ![image](https://user-images.githubusercontent.com/3351073/214972577-e9fb27a6-55a8-40b6-b38f-cbb68a115739.png)
 
