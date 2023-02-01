@@ -3,15 +3,10 @@
 **计算的力量**： 很多证据表明，机器学习的进步很大程度上是由计算驱动的，而不是研究，请参考："[The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)"。
 有研究表明，[人工智能计算使用量大约每3.4个月翻一番，而效率提升每16个月才翻一番](https://openai.com/blog/)。其中计算使用量主要由计算力驱动，而效率则由研究驱动。 
 这意味着计算增长在历史上主导了机器学习和其子领域的进步。尽管如此，未来是否有更颠覆Transformer的架构仍需要我们重视。
-目前的NLP研究热点大部分基于更先进的LLM （2022-）。尤其是ChatGPT通过Alignment技术利用少于预训练几千倍的计算和（$500k, 20k小时，相比于GPT-3的$12000k）释放了GPT大模型对话能力并火出圈。所以本库对这些文章进行追踪和归类，更能让我们把握前沿，看清方向。个人想法，不妥之处或者建议请指正。
+目前的NLP研究热点大部分基于更先进的LLM （2022-）。尤其是ChatGPT通过Alignment技术利用少于预训练几千倍的计算和（500k美元, 20k小时，相比于GPT-3的12000k美元
+）释放了GPT大模型对话能力并火出圈。所以本库对这些文章进行追踪和归类，更能让我们把握前沿，看清方向。个人想法，不妥之处或者建议请指正。
 
----
-![image](https://user-images.githubusercontent.com/3351073/215961391-9cdccc4c-6f31-4e08-a173-619737b7a0b1.png)
-![image](https://user-images.githubusercontent.com/3351073/215961479-2098385d-f218-41d9-8e58-88d36f1ee730.png)
-![image](https://user-images.githubusercontent.com/3351073/215961617-24652d34-e6d5-401e-977b-93f120d88fca.png)
-![image](https://user-images.githubusercontent.com/3351073/215961831-ecd86b1f-e9e5-4c53-a2d8-03af157ce45a.png)
-![image](https://user-images.githubusercontent.com/3351073/215962070-53bc43b0-c14b-4b5f-bb7d-0474bfc1a767.png)
----
+
 
 【应用ICL的多步推理方法，很有启发】ReAct: Synergizing Reasoning and Acting in Language Models
 
@@ -311,4 +306,15 @@ Momentum Calibration for Text Generation
 ```
 相关文章：【EMNLP 22'】Language Models of Code are Few-Shot Commonsense Learners
 【Heng Ji组】Code4Struct: Code Generation for Few-Shot Structured Prediction from Natural Language
+PAL: Program-aided Language Models
+【Qing Lyu, Chris Callison-Burch组】Faithful Chain-of-Thought Reasoning
 ```
+
+
+---
+![image](https://user-images.githubusercontent.com/3351073/215961391-9cdccc4c-6f31-4e08-a173-619737b7a0b1.png)
+![image](https://user-images.githubusercontent.com/3351073/215961479-2098385d-f218-41d9-8e58-88d36f1ee730.png)
+![image](https://user-images.githubusercontent.com/3351073/215961617-24652d34-e6d5-401e-977b-93f120d88fca.png)
+![image](https://user-images.githubusercontent.com/3351073/215961831-ecd86b1f-e9e5-4c53-a2d8-03af157ce45a.png)
+![image](https://user-images.githubusercontent.com/3351073/215962070-53bc43b0-c14b-4b5f-bb7d-0474bfc1a767.png)
+---
