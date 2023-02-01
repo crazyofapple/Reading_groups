@@ -1,4 +1,4 @@
-## 关于LLM和当前热点的文章，包括ICLR 2023 和 ACL 2023的预印版
+## 关于LLM和当前热点的文章，包括ICLR 2023, ACL 2023和ICML 2023的预印版
 
 **计算的力量**： 很多证据表明，机器学习的进步很大程度上是由计算驱动的，而不是研究，请参考："[The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)"。
 有研究表明，[人工智能计算使用量大约每3.4个月翻一番，而效率提升每16个月才翻一番](https://openai.com/blog/)。其中计算使用量主要由计算力驱动，而效率则由研究驱动。 
@@ -272,7 +272,8 @@ SPT: Semi-Parametric Prompt Tuning for Multitask Prompted Learning
 【自我迭代生成（利用python验证过）训练数据】Language Models Can Teach Themselves to Program Better
 
 ```
-相关文章： STaR: Bootstrapping Reasoning With Reasoning, 来自Neurips 22 (生成CoT数据用于模型微调）, 引起后续一系列教小模型的CoT的文章
+相关文章：Specializing Smaller Language Models towards Multi-Step Reasoning
+STaR: Bootstrapping Reasoning With Reasoning, 来自Neurips 22 (生成CoT数据用于模型微调）, 引起后续一系列教小模型的CoT的文章
 类似想法 【知识蒸馏】 Teaching Small Language Models to Reason
 类似想法很多，包括KAIST和Xiang Ren组（【CoT的rationale微调（教授）时进行扰动】PINTO: Faithful Language Reasoning Using Prompt-Generated Rationales等）和这一篇Large Language Models Are Reasoning Teachers和ETH的【CoT的数据分别训练问题分解和问题解答模型】Distilling Multi-Step Reasoning Capabilites of Large Language Models into Smaller Models via Semantic Decompositions
 ```
