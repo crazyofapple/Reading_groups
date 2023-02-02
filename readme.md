@@ -7,7 +7,6 @@
 ）释放了GPT大模型对话能力并火出圈。所以本库对这些文章进行追踪和归类，更能让我们把握前沿，看清方向。个人想法，不妥之处或者建议请指正。
 
 
-
 【应用ICL的多步推理方法，很有启发】ReAct: Synergizing Reasoning and Acting in Language Models
 
 ```
@@ -310,6 +309,7 @@ PAL: Program-aided Language Models
 【Qing Lyu, Chris Callison-Burch组】Faithful Chain-of-Thought Reasoning
 ```
 
+【模型对无关上下文的敏感性，向提示中示例添加不相关的信息和添加忽略不相关上下文的指令部分解决】Large Language Models Can Be Easily Distracted by Irrelevant Context
 
 ---
 ![image](https://user-images.githubusercontent.com/3351073/215961391-9cdccc4c-6f31-4e08-a173-619737b7a0b1.png)
