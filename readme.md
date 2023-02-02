@@ -34,6 +34,15 @@ What learning algorithm is in-context learning? Investigations with linear model
 
 【一种文本生成的新的优化方式】Tailoring Language Generation Models under Total Variation Distance
 
+【条件生成的不确定性估计，采用多个采样输出的语义聚类合并后簇的熵来估计】Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation 
+
+```
+相关文章：1. Language Models (Mostly) Know What They Know
+相关文章：2. Teaching Models to Express Their Uncertainty in Words
+```
+
+
+
 【Alignment新的基准，模型库和新方法】Is Reinforcement Learning (Not) for Natural Language Processing?: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization
 
 LexMAE: Lexicon-Bottlenecked Pretraining for Large-Scale Retrieval
