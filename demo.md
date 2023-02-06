@@ -1,0 +1,13 @@
+<li><a href="https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain">Chat-GPT-LangChain</a></li>
+<li><a href="https://6b.eleuther.ai">GPT-J demo</a></li>
+<li><a href="https://opt.alpa.ai/#generation">OPT demo</a></li>
+<li><a href="https://huggingface.co/bigscience/bloom">BLOOM demo</a></li>
+<li><a href="https://huggingface.co/spaces/dalle-mini/dalle-mini">DALL-E mini demo</a></li>
+<li><a href="https://c4-search.apps.allenai.org">A queryable interface to C4</a></li>
+<li><a href="https://vision-explorer.allenai.org">AllenAI vision demo</a></li>
+<li><a href="https://demo.allennlp.org">AllenNLP demo</a></li>
+<li><a href="https://unqover.apps.allenai.org/">Social stereotypes in models</a></li>
+<li><a href="https://blenderbot.ai/">Meta's BlenderBot demo</a></li>
+<li><a href="https://beta.dreamstudio.ai/">DreamStudio image generation demo</a></li>
+<li><a href="https://google-research.github.io/seanet/audiolm/examples/">Examples from AudioLM</a></li>
+<li><a href="https://github.com/CompVis/stable-diffusion">Stable Diffusion model weights </a></li>
