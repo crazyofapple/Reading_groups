@@ -1,3 +1,5 @@
+[CS 601.471/671 NLP: Self-supervised Models](https://self-supervised.cs.jhu.edu/sp2023/)
+
 [CSCI 601.771: Self-supervised Statistical Models](https://self-supervised.cs.jhu.edu/fa2022/)
 
 [Stanford CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)
