@@ -26,6 +26,10 @@ What learning algorithm is in-context learning? Investigations with linear model
 
 【加速大模型解码，利用小模型和大模型直接的共识一次调用多次可用，毕竟输入长了会很慢】 Accelerating Large Language Model Decoding with Speculative Sampling
 
+【通过技术不使用[MASK]标记进行MLM】Representation Deficiency in Masked Language Modeling
+
+【通过prompt设计进行负面反馈比较微调】Languages are Rewards: Hindsight Finetuning using Human Feedback
+
 【大模型直接产生证据上下文】Generate rather than Retrieve: Large Language Models are Strong Context Generators
 
 【中英文的大模型，超过GPT-3】GLM-130B: An Open Bilingual Pre-trained Model
