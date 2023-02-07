@@ -24,6 +24,8 @@
 
 What learning algorithm is in-context learning? Investigations with linear models
 
+【加速大模型解码，毕竟ChatGPT输入长了会很慢】 Accelerating Large Language Model Decoding with Speculative Sampling
+
 【大模型直接产生证据上下文】Generate rather than Retrieve: Large Language Models are Strong Context Generators
 
 【中英文的大模型，超过GPT-3】GLM-130B: An Open Bilingual Pre-trained Model
