@@ -134,6 +134,7 @@ Towards Conditionally Dependent Masked Language Models
 预测：AI反馈很快会取代人工用户反馈用于模型更新 
 类似想法 1. Constitutional AI: Harmlessness from AI Feedback 
 类似想法 2. Discovering Language Model Behaviors with Model-Written Evaluations
+应用：【openai】Recursively Summarizing Books with Human Feedback
 ```
 
 【压缩FiD输入向量的长度，且输出时重新排序来输出文档排名】FiD-Light: Efficient and Effective Retrieval-Augmented Text Generation
