@@ -52,6 +52,16 @@ UL2: Unifying Language Learning Paradigms
 
 【Alignment新的基准，模型库和新方法】Is Reinforcement Learning (Not) for Natural Language Processing?: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization
 
+【scalable oversight: 人类在模型超过自己的任务后怎么持续的提升模型？】Measuring Progress on Scalable Oversight for Large Language Models
+
+```
+定义：以标签、奖励信号或批评的形式向模型提供可靠监督的能力，这种监督在模型开始达到广泛的人类水平表现之后仍将保持有效。
+Scalable oversight技术可以提升模型的容量和对齐（即以人类期待的方式进行应用和实现目标）。
+如果我们能找到在现有模型（水平在非专家之上，专家之下）的基础上，找到一个监督学习的范式，能够提升模型答案的正确性，那我们不再依赖专家就能获得一个超越专家的系统。
+另一个角度想法是通过使用多种提示和策略来提示模型，并仅接受模型在一致且合理的证据的基础上一致给出的答案。但这个角度的技术可能扩展性不足，参考《计算的教训》。 当然，任何能够以高可靠性解决此类挑战的技术都可能代表可扩展监督方面的重要进展。
+现有解决方案：让现有模型辅助人类获取知识来让人类产出高质量的监督。
+```
+
 LexMAE: Lexicon-Bottlenecked Pretraining for Large-Scale Retrieval
 
 DocPrompting: Generating Code by Retrieving the Docs
