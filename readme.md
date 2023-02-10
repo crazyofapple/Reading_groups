@@ -122,6 +122,13 @@ Mass-Editing Memory in a Transformer
 
 【复杂的提示提升了CoT】Complexity-Based Prompting for Multi-step Reasoning
 
+```
+目标：提升CoT自身的效用，与CoT效用的分析息息相关
+【生成后先单个样例选择后组合选择】Explanation Selection Using Unlabeled Data for In-Context Learning
+【自动构建CoT中的样例的解释并用于CoT】Automatic Chain of Thought Prompting in Large Language Models
+【对CoT生成的解释进行二次调整，用带参数的refiner模块+信息熵优化】Explanation Regeneration via Information Bottleneck
+```
+
 【PRONTOQA数据集测试CoT推理能力，发现Planning能力仍受限】Language Models Can (kind of) Reason: A Systematic Formal Analysis of Chain-of-Thought
 
 PromptBoosting: Black-Box Text Classification with Ten Forward Passes
@@ -257,8 +264,6 @@ Text and Patterns: For Effective Chain of Thought, It Takes Two to Tango
 
 【不需要人工选样例的ICL展示生成方法】Z-ICL: Zero-Shot In-Context Learning with Pseudo-Demonstrations
 
-【对CoT生成的解释进行二次调整，用带参数的refiner模块+信息熵优化】Explanation Regeneration via Information Bottleneck
-
 【任务Instruction和文本一起生成Embedding】One Embedder, Any Task: Instruction-Finetuned Text Embeddings
 
 【大模型教小模型CoT】KNIFE: Knowledge Distillation with Free-Text Rationales
@@ -291,7 +296,6 @@ SPT: Semi-Parametric Prompt Tuning for Multitask Prompted Learning
 
 【不同Prompt序列困惑度越低性能越好】 Demystifying Prompts in Language Models via Perplexity Estimation
 
-【自动构建CoT中的样例的解释并用于CoT】Automatic Chain of Thought Prompting in Large Language Models
 
 【让小模型学会CoT能力】In-context Learning Distillation: Transferring Few-shot Learning Ability of Pre-trained Language Models
 
