@@ -349,4 +349,6 @@ PAL: Program-aided Language Models
 ![image](https://user-images.githubusercontent.com/3351073/215961831-ecd86b1f-e9e5-4c53-a2d8-03af157ce45a.png)
 ![image](https://user-images.githubusercontent.com/3351073/215962070-53bc43b0-c14b-4b5f-bb7d-0474bfc1a767.png)
 ![image](https://user-images.githubusercontent.com/3351073/216741261-ee8fcc8d-141f-4a7b-92e2-6add03ee59fa.png)
+![image](https://user-images.githubusercontent.com/3351073/218292140-f0559b97-782e-4ad6-b268-13fad8435202.png)
+
 ---
