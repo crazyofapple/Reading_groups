@@ -1,3 +1,13 @@
+奖励建模数据集:
+```
+该数据集由Stiennon et al. (2020)提供并包含对模型生成的摘要的人工反馈。 这个数据集有两个部分：比较和axis。 在比较部分，人工注释者被要求从两个摘要中选择最好的。 在axis部分，人工注释者根据Likert scale为摘要质量打分。 比较部分只有训练和验证拆分，axis部分只有测试和验证拆分。 论文中用于训练奖励模型的摘要来自 TL;DR 数据集。 其他验证和测试数据来自 TL;DR 数据集、CNN 文章和每日邮报文章。
+https://huggingface.co/datasets/openai/summarize_from_feedback
+该数据集来自 Ganguli et al. (2022); Bai et al. (2022a)  并包含人类评价的对话。3 一个例子包括人类和聊天机器人之间的一对对话。 人类更喜欢这两种对话中的一种。
+https://huggingface.co/datasets/Anthropic/hh-rlhf
+该数据集来自 Nakano et al. (2021). 共有 19,578 次比较。 数据集中的每个示例都包含一对问题的模型答案，以及相关的元数据。 每个答案都有一个来自人类的偏好分数，可用于确定两个答案中哪个更好。
+https://huggingface.co/datasets/openai/webgpt_comparisons
+```
+
 https://jingfengyang.github.io/gpt
 
 https://bounded-regret.ghost.io/more-is-different-for-ai/
