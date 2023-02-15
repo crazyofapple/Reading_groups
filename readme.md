@@ -307,6 +307,7 @@ SPT: Semi-Parametric Prompt Tuning for Multitask Prompted Learning
 相关文章：Specializing Smaller Language Models towards Multi-Step Reasoning
 STaR: Bootstrapping Reasoning With Reasoning, 来自Neurips 22 (生成CoT数据用于模型微调）, 引起后续一系列教小模型的CoT的文章
 类似想法 【知识蒸馏】 Teaching Small Language Models to Reason
+Learning by Distilling Context 
 类似想法很多，包括KAIST和Xiang Ren组（【CoT的rationale微调（教授）时进行扰动】PINTO: Faithful Language Reasoning Using Prompt-Generated Rationales等）和这一篇Large Language Models Are Reasoning Teachers和ETH的【CoT的数据分别训练问题分解和问题解答模型】Distilling Multi-Step Reasoning Capabilites of Large Language Models into Smaller Models via Semantic Decompositions
 ```
 
