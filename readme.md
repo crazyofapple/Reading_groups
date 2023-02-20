@@ -370,6 +370,8 @@ A Survey on Natural Language Processing for Programming
 ---
 ## **其他**
 
+如果对您有帮助，请star支持一下，欢迎Pull Request~ 
+
 主观整理，不妥之处或者建议请指正! Dongfang Li, crazyofapple@gmail.com 
 
 
