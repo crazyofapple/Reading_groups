@@ -27,7 +27,7 @@
 - 定义：以标签、奖励信号或批评的形式向模型提供可靠监督的能力，这种监督在模型开始达到广泛的人类水平表现之后仍将保持有效。
 - Scalable oversight技术可以提升模型的容量和对齐（即以人类期待的方式进行应用和实现目标）。
 - 如果我们能找到在现有模型（水平在非专家之上，专家之下）的基础上，找到一个监督学习的范式，能够提升模型答案的正确性，那我们不再依赖专家就能获得一个超越专家的系统。
-- 另一个角度想法是通过使用多种提示和策略来提示模型，并仅接受模型在一致且合理的证据的基础上一致给出的答案。但这个角度的技术可能扩展性不足，参考《计算的教训》。 当然，任何能够以高可靠性解决此类挑战的技术都可能代表可扩展监督方面的重要进展。
+- 另一个角度想法是通过使用多种提示和策略来提示模型，并仅接受模型在一致且合理的证据的基础上一致给出的答案。但这个角度的技术可能扩展性不足。 当然，任何能够以高可靠性解决此类挑战的技术都可能代表可扩展监督方面的重要进展。
 - 现有解决方案：让现有模型辅助人类获取知识来让人类产出高质量的监督。
 
 
@@ -79,7 +79,7 @@ Towards Conditionally Dependent Masked Language Models
 - Towards Boosting the Open-Domain Chatbot with Human Feedback
 - 类似想法 1. Constitutional AI: Harmlessness from AI Feedback 
 - 类似想法 2. Discovering Language Model Behaviors with Model-Written Evaluations
-- 应用：【Openai】Recursively Summarizing Books with Human Feedback
+- 应用：【OpenAI】Recursively Summarizing Books with Human Feedback
 
 【持续学习：新任务增加一个prompt，且上一个任务的prompt和大模型不变】Progressive Prompts: Continual Learning for Language Models without Forgetting
 
