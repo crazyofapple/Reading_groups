@@ -160,11 +160,11 @@ https://say-can.github.io/
 
 【调查检索式模型的特点，发现两者均对reasoning有限】Can Retriever-Augmented Language Models Reason? The Blame Game Between the Retriever and the Language Model
 
-``` 
-检索式+LLM的想法是下一步的方向，但是不是唯一的答案还需要看看
-Rethink Search: Making Domain Experts out of Dilettantes
-Attributed Question Answering: Evaluation and Modeling for Attributed Large Language Models
-```
+ 
+- 检索式+LLM的想法是下一步的方向，但是不是唯一的答案还需要看看
+- Rethink Search: Making Domain Experts out of Dilettantes
+- Attributed Question Answering: Evaluation and Modeling for Attributed Large Language Models
+
 【人类-AI语言交互评价框架】Evaluating Human-Language Model Interaction
 
 - 类似文章 Measuring the Human Utility of Free-Text Rationales in Human-AI Collaboration
