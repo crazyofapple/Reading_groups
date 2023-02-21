@@ -51,7 +51,7 @@ A Non-monotonic Self-terminating Language Model
 
 【通过prompt设计进行负面反馈比较微调】Languages are Rewards: Hindsight Finetuning using Human Feedback
 
-
+【Sparrow模型】Improving alignment of dialogue agents via targeted human judgements
 
 【用小模型参数加速大模型训练过程（不从头）】Learning to Grow Pretrained Models for Efficient Transformer Training
 
