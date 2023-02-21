@@ -89,6 +89,8 @@ GanLM: Encoder-Decoder Pre-training with an Auxiliary Discriminator
 
 【基于state-space models的预训练语言模型，超过BERT】Pretraining Without Attention
 
+【预训练的时候就考虑人类反馈】Pretraining Language Models with Human Preferences
+
 ## **应用与LLM+**
 
 【应用ICL的多步推理方法，很有启发】ReAct: Synergizing Reasoning and Acting in Language Models
