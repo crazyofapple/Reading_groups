@@ -247,6 +247,10 @@ Is GPT-3 a Psychopath? Evaluating Large Language Models from a Psychological Per
 
 - 相关文章：1. Language Models (Mostly) Know What They Know
 - 相关文章：2. Teaching Models to Express Their Uncertainty in Words
+- 校准元分析：大模型的校准是否会因为模型的大小，模型的架构，Instruction的不同，Context的不同以及任务领域而发生变化？
+- 最优的开放域对话生成的校准方法是什么？如何提升模型的校准性能，微调，RLHF，Instruction tuning？
+- 大模型是否真正是因为理解问题而校准，而不是通过统计偏差得到良好的可信度评估？是不是和人类一样存在欺骗行为，知道自己不懂，但是假装自己知道？ 这样如何评价？
+- 如果大模型拥有了良好的校准，下一步我们可以做些什么，如何应用于对话生成等应用？
 
 Go-tuning: Improving Zero-shot Learning Abilities of Smaller Language Models
 
