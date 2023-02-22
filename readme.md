@@ -160,6 +160,8 @@ https://say-can.github.io/
 
 ## **原理分析**
 
+【哪种架构和优化目标有助于零样本泛化】What Language Model Architecture and Pretraining Objective Work Best for Zero-Shot Generalization?
+
 【学习过程 Memorization->Circuit formation->Cleanup】Progress measures for grokking via mechanistic interpretability
  
 【调查检索式模型的特点，发现两者均对reasoning有限】Can Retriever-Augmented Language Models Reason? The Blame Game Between the Retriever and the Language Model
@@ -388,7 +390,9 @@ https://huggingface.co/datasets/openai/webgpt_comparisons
 
 如果对您有帮助，请star支持一下，欢迎Pull Request~ 
 
-主观整理，不妥之处或者建议请指正! Dongfang Li, crazyofapple@gmail.com 
+主观整理，时间上主要从ICLR 2023 Rebuttal期间开始的，包括ICLR，ACL，ICML等预印版论文。
+
+不妥之处或者建议请指正! Dongfang Li, crazyofapple@gmail.com 
 
 
 
