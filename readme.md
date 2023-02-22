@@ -200,7 +200,7 @@ What learning algorithm is in-context learning? Investigations with linear model
 
 What Matters In The Structured Pruning of Generative Language Models?
 
-【任务歧义：缩放 RLHF 模型在消除歧义任务方面表现最佳。微调比few-shot prompting更有帮助】Task Ambiguity in Humans and Language Models
+【AmbiBench数据集，任务歧义：缩放 RLHF 模型在消除歧义任务方面表现最佳。微调比few-shot prompting更有帮助】Task Ambiguity in Humans and Language Models
 
 【GPT-3的测试，包括记忆，校准，偏见等】Prompting GPT-3 To Be Reliable
 
@@ -393,23 +393,3 @@ https://huggingface.co/datasets/openai/webgpt_comparisons
 主观整理，时间上主要从ICLR 2023 Rebuttal期间开始的，包括ICLR，ACL，ICML等预印版论文。
 
 不妥之处或者建议请指正! Dongfang Li, crazyofapple@gmail.com 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
