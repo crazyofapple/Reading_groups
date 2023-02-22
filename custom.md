@@ -1,6 +1,6 @@
-OpenAI Alignment Leader的博客 https://aligned.substack.com/p/ai-assisted-human-feedback
+OpenAI Alignment Leader - Jan Leike的博客 https://aligned.substack.com/p/ai-assisted-human-feedback
 
-Jacob Steinhardt - Aligning ML Systems with Human Intent  https://www.youtube.com/watch?v=uPH1xIiGZ4o
+【涌现能力的“另一面”，RLHF的局限性】Jacob Steinhardt - Aligning ML Systems with Human Intent  https://www.youtube.com/watch?v=uPH1xIiGZ4o
 
 Emergent Deception and Emergent Optimization https://bounded-regret.ghost.io/emergent-deception-optimization/
 
