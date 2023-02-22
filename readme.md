@@ -160,6 +160,8 @@ https://say-can.github.io/
 
 ## **原理分析**
 
+【学习过程 Memorization->Circuit formation->Cleanup】Progress measures for grokking via mechanistic interpretability
+ 
 【调查检索式模型的特点，发现两者均对reasoning有限】Can Retriever-Augmented Language Models Reason? The Blame Game Between the Retriever and the Language Model
 
  
