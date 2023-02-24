@@ -382,7 +382,8 @@ A Survey on Natural Language Processing for Programming
 https://huggingface.co/datasets/Anthropic/hh-rlhf
 - 该数据集来自 Nakano et al. (2021). 共有 19,578 次比较。 数据集中的每个示例都包含一对问题的模型答案，以及相关的元数据。 每个答案都有一个来自人类的偏好分数，可用于确定两个答案中哪个更好。
 https://huggingface.co/datasets/openai/webgpt_comparisons
-
+- SHP是一个由385K个集体人类对18个不同主题领域的问题/指示的反应的偏好组成的数据集，从烹饪到法律咨询。这些偏好旨在反映一种回答对另一种回答的帮助程度，并打算用于训练RLHF奖励模型和NLG评估模型（例如SteamSHP）。
+https://huggingface.co/datasets/stanfordnlp/SHP
 
 
 ---
