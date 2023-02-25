@@ -94,7 +94,7 @@ GanLM: Encoder-Decoder Pre-training with an Auxiliary Discriminator
 
 【预训练的时候就考虑人类反馈】Pretraining Language Models with Human Preferences
 
-【Meta的开源LLaMA模型，7B-65B】LLaMA: Open and Efficient Foundation Language Models
+【Meta的开源LLaMA模型，7B-65B，训练比通常使用的更多的标记的小模型，在各种推理预算下实现最佳性能】LLaMA: Open and Efficient Foundation Language Models
 
 ## **应用与LLM+**
 
