@@ -6,6 +6,8 @@
 目前的NLP研究热点大部分基于更先进的LLM （~100B, $10^{23}$ FLOPs）。尤其是ChatGPT通过[Alignment](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/lectures/lec22.pdf)技术利用少于预训练几千倍的计算和（500k美元, 20k小时，相比于GPT-3的12000k美元
 ）释放了GPT大模型对话能力并火出圈。所以本库对这些文章进行追踪和归类，更能让我们把握前沿，看清方向。
 
+更多topics请参考[这里](https://self-supervised.cs.jhu.edu/fa2022/)和[这里](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)。
+
 --- 
 **论文** (*粗糙类别*)
 - [模型训练和优化](#大模型训练和优化)
@@ -162,6 +164,8 @@ https://say-can.github.io/
 【对比一致搜索 (CCS)无监督识别语言模型中的潜在（二元）知识】Discovering Latent Knowledge in Language Models Without Supervision
 
 ## **原理分析**
+
+【在我看来是最重要的文章之一，语言模型在交叉熵损失下的比例定律，损失与模型大小，数据集大小，用于训练的计算量成幂律关系，而宽度深度等架构细节影响较小】Scaling Laws for Neural Language Models
 
 【哪种架构和优化目标有助于零样本泛化】What Language Model Architecture and Pretraining Objective Work Best for Zero-Shot Generalization?
 
@@ -392,6 +396,7 @@ Red-teaming数据集，harmless vs. helpful， *RLHF*+scale更难被攻击 （�
 - AI2’s RealToxicityPrompts https://huggingface.co/datasets/allenai/real-toxicity-prompts
 ---
 ## **其他**
+【知识】+【推理】+【生成】
 
 如果对您有帮助，请star支持一下，欢迎Pull Request~ 
 
