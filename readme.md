@@ -167,6 +167,8 @@ https://say-can.github.io/
 
 【在我看来是最重要的文章之一，语言模型在交叉熵损失下的比例定律，损失与模型大小，数据集大小，用于训练的计算量成幂律关系，而宽度深度等架构细节影响较小】Scaling Laws for Neural Language Models
 
+【另一篇最重要的文章之一，Chinchilla，限定计算下，最优的模型并不是最大的模型，而是更多数据训练的较小模型（60-70B）】Training Compute-Optimal Large Language Models
+
 【哪种架构和优化目标有助于零样本泛化】What Language Model Architecture and Pretraining Objective Work Best for Zero-Shot Generalization?
 
 【Grokking “顿悟”学习过程 Memorization->Circuit formation->Cleanup】Progress measures for grokking via mechanistic interpretability
