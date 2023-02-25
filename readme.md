@@ -4,9 +4,9 @@
 有研究表明，[人工智能计算使用量大约每3.4个月翻一番，而效率提升每16个月才翻一番](https://openai.com/blog/)。其中计算使用量主要由计算力驱动，而效率则由研究驱动。 
 这意味着计算增长在历史上主导了机器学习和其子领域的进步。尽管如此，未来是否有更颠覆Transformer的架构仍需要我们重视。
 目前的NLP研究热点大部分基于更先进的LLM （~100B, $10^{23}$ FLOPs）。尤其是ChatGPT通过[Alignment](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/lectures/lec22.pdf)技术利用少于预训练几千倍的计算和（500k美元, 20k小时，相比于GPT-3的12000k美元
-）释放了GPT大模型对话能力并火出圈。所以本库对这些文章进行追踪和归类，更能让我们把握前沿，看清方向。
+）释放了GPT大模型对话能力并火出圈。所以本库对大规模预训练语言模型LLM相关文章进行追踪和归类，更能让我们把握前沿，看清方向。
 
-更多topics请参考[这里](https://self-supervised.cs.jhu.edu/fa2022/)和[这里](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)。
+关于LLM更多topics的论文请参考[这里](https://self-supervised.cs.jhu.edu/fa2022/)和[这里](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)。
 
 --- 
 **论文** (*粗糙类别*)
