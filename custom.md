@@ -1,3 +1,10 @@
+评价库：https://github.com/EleutherAI/lm-evaluation-harness
+
+Huggingface的博客：
+1. https://huggingface.co/blog/red-teaming
+2. https://huggingface.co/blog/dialog-agents
+3. https://huggingface.co/blog/rlhf
+
 OpenAI Alignment Leader - Jan Leike的博客 https://aligned.substack.com/p/ai-assisted-human-feedback
 
 【涌现能力的“另一面”，RLHF的局限性】Jacob Steinhardt - Aligning ML Systems with Human Intent  https://www.youtube.com/watch?v=uPH1xIiGZ4o

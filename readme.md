@@ -19,6 +19,7 @@
 - [重要的图](figures.md)
 - [Demo](demo.md)
 - [博客与自选文章](custom.md)
+- 训练，推理，应用工具 (未整理)
 ---
 ## **大模型训练和优化**
 
@@ -91,6 +92,8 @@ GanLM: Encoder-Decoder Pre-training with an Auxiliary Discriminator
 
 【预训练的时候就考虑人类反馈】Pretraining Language Models with Human Preferences
 
+【Meta的开源LLaMA模型，7B-65B】LLaMA: Open and Efficient Foundation Language Models
+
 ## **应用与LLM+**
 
 【应用ICL的多步推理方法，很有启发】ReAct: Synergizing Reasoning and Acting in Language Models
@@ -162,7 +165,7 @@ https://say-can.github.io/
 
 【哪种架构和优化目标有助于零样本泛化】What Language Model Architecture and Pretraining Objective Work Best for Zero-Shot Generalization?
 
-【学习过程 Memorization->Circuit formation->Cleanup】Progress measures for grokking via mechanistic interpretability
+【Grokking “顿悟”学习过程 Memorization->Circuit formation->Cleanup】Progress measures for grokking via mechanistic interpretability
  
 【调查检索式模型的特点，发现两者均对reasoning有限】Can Retriever-Augmented Language Models Reason? The Blame Game Between the Retriever and the Language Model
 
@@ -382,7 +385,11 @@ A Survey on Natural Language Processing for Programming
 - 该数据集来自 Nakano et al. (2021). 共有 19,578 次比较。 数据集中的每个示例都包含一对问题的模型答案，以及相关的元数据。 每个答案都有一个来自人类的偏好分数，可用于确定两个答案中哪个更好。 https://huggingface.co/datasets/openai/webgpt_comparisons
 - SHP是一个由385K个集体人类对18个不同主题领域的问题/指示的反应的偏好组成的数据集，从烹饪到法律咨询。这些偏好旨在反映一种回答对另一种回答的帮助程度，并打算用于训练RLHF奖励模型和NLG评估模型（例如SteamSHP）。 https://huggingface.co/datasets/stanfordnlp/SHP
 
-
+Red-teaming数据集，harmless vs. helpful， *RLHF*+scale更难被攻击 （另一个有效的技术是CoT fine-tuning）:
+- 对于什么是成功的攻击，人类之间总体上达成的共识很低。
+- Meta’s Bot Adversarial Dialog dataset https://github.com/facebookresearch/ParlAI/tree/main/parlai/tasks/bot_adversarial_dialogue
+- Anthropic’s red-teaming attempts https://huggingface.co/datasets/Anthropic/hh-rlhf/tree/main/red-team-attempts
+- AI2’s RealToxicityPrompts https://huggingface.co/datasets/allenai/real-toxicity-prompts
 ---
 ## **其他**
 
