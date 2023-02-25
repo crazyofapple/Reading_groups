@@ -17,10 +17,10 @@
 - [Survey和数据集](#survey和数据集)
 
 **资源**
-- [课程](course.md)
+- [LLM课程](course.md)
 - [重要的图](figures.md)
-- [Demo](demo.md)
-- [博客与自选文章](custom.md)
+- [LLM Demo](demo.md)
+- [重要的博客与自选文章](custom.md)
 - 训练，推理，应用工具 (未整理)
 ---
 ## **大模型训练和优化**
