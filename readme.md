@@ -29,6 +29,7 @@
 
 【scalable oversight: 人类在模型超过自己的任务后怎么持续的提升模型？】Measuring Progress on Scalable Oversight for Large Language Models
 
+- Self-critiquing models for assisting human evaluators
 - 定义：以标签、奖励信号或批评的形式向模型提供可靠监督的能力，这种监督在模型开始达到广泛的人类水平表现之后仍将保持有效。
 - Scalable oversight技术可以提升模型的容量和对齐（即以人类期待的方式进行应用和实现目标）。
 - 如果我们能找到在现有模型（水平在非专家之上，专家之下）的基础上，找到一个监督学习的范式，能够提升模型答案的正确性，那我们不再依赖专家就能获得一个超越专家的系统。
