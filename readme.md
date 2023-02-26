@@ -25,6 +25,8 @@
 ---
 ## **大模型训练和优化**
 
+【InstructGPT论文，包括sft,ppo等，最重要的文章之一】Training language models to follow instructions with human feedback
+
 【scalable oversight: 人类在模型超过自己的任务后怎么持续的提升模型？】Measuring Progress on Scalable Oversight for Large Language Models
 
 - 定义：以标签、奖励信号或批评的形式向模型提供可靠监督的能力，这种监督在模型开始达到广泛的人类水平表现之后仍将保持有效。
