@@ -36,6 +36,7 @@
 - 另一个角度想法是通过使用多种提示和策略来提示模型，并仅接受模型在一致且合理的证据的基础上一致给出的答案。但这个角度的技术可能扩展性不足。 当然，任何能够以高可靠性解决此类挑战的技术都可能代表可扩展监督方面的重要进展。
 - 现有解决方案：让现有模型辅助人类获取知识来让人类产出高质量的监督。
 
+A General Language Assistant as a Laboratory for Alignment
 
 【中英文的大模型，超过GPT-3】GLM-130B: An Open Bilingual Pre-trained Model
 
