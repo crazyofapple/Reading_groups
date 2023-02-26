@@ -89,6 +89,9 @@ Towards Conditionally Dependent Masked Language Models
 
 【持续学习：新任务增加一个prompt，且上一个任务的prompt和大模型不变】Progressive Prompts: Continual Learning for Language Models without Forgetting
 
+【EMNLP 2022，模型的持续更新】MemPrompt: Memory-assisted Prompt Editing with User Feedback
+
+
 【新的神经架构 (FOLNet)，其中包含一阶逻辑归纳偏差】Learning Language Representations with Logical Inductive Bias
 
 GanLM: Encoder-Decoder Pre-training with an Auxiliary Discriminator
