@@ -1,3 +1,5 @@
+[CMU: Advanced Topics in MultiModal Machine Learning](https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2022/schedule/)
+
 [CS 601.471/671 NLP: Self-supervised Models](https://self-supervised.cs.jhu.edu/sp2023/)
 
 [CSCI 601.771: Self-supervised Statistical Models](https://self-supervised.cs.jhu.edu/fa2022/)
