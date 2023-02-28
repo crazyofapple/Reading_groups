@@ -30,7 +30,6 @@ Yao Fu的三篇系列文章
 2. https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1
 3. https://yaofu.notion.site/GPT-3-5-360081d91ec245f29029d37b54573756
 
-https://huggingface.co/blog/dialog-agents 和 https://huggingface.co/blog/rlhf
 
 Yoav Goldberg的remark：https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9 以及 https://gist.github.com/yoavg/001cca8ab6de3f20650192da17117292
 
