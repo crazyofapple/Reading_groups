@@ -25,7 +25,10 @@ Self-critiquing models for assisting human evaluators https://arxiv.org/pdf/2206
 
 How Many Data Points is a Prompt Worth? https://arxiv.org/pdf/2103.08493.pdf
 
-Yao Fu的两篇系列文章
+Yao Fu的三篇系列文章 
+1. https://yaofu.notion.site/e1cd16d1fae84f87aeddf872c838e07c
+2. https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1
+3. https://yaofu.notion.site/GPT-3-5-360081d91ec245f29029d37b54573756
 
 https://huggingface.co/blog/dialog-agents 和 https://huggingface.co/blog/rlhf
 
