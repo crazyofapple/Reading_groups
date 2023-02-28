@@ -38,6 +38,9 @@
 
 A General Language Assistant as a Laboratory for Alignment
 
+【必读】Improving language models by retrieving from trillions of tokens
+
+
 【中英文的大模型，超过GPT-3】GLM-130B: An Open Bilingual Pre-trained Model
 
 【预训练目标优化】UL2: Unifying Language Learning Paradigms
