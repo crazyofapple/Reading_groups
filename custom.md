@@ -1,5 +1,7 @@
 评价库：https://github.com/EleutherAI/lm-evaluation-harness
 
+生成评价API（Critique: A Simple Evaluation API for Text）：https://docs.inspiredco.ai/critique/
+
 Huggingface的博客：
 1. https://huggingface.co/blog/red-teaming
 2. https://huggingface.co/blog/dialog-agents
