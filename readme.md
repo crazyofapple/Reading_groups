@@ -59,7 +59,9 @@ InCoder: A Generative Model for Code Infilling and Synthesis
 
 A Non-monotonic Self-terminating Language Model
 
-【通过prompt设计进行负面反馈比较微调】Languages are Rewards: Hindsight Finetuning using Human Feedback
+【通过prompt设计进行负面反馈比较微调】Chain of Hindsight Aligns Language Models with Feedback
+
+- 相关文章：The Wisdom of Hindsight Makes Language Models Better Instruction Followers
 
 【Sparrow模型】Improving alignment of dialogue agents via targeted human judgements
 
