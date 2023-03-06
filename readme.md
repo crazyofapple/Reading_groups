@@ -198,6 +198,7 @@ https://say-can.github.io/
 
 
 What learning algorithm is in-context learning? Investigations with linear models
+- 【利用ICL来学习强化学习后的action预测，真机智】 In-context reinforcement learning with algorithm distillation
 
 【模型编辑，这块是Hot topic】Mass-Editing Memory in a Transformer
 
