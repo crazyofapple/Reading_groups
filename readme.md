@@ -260,6 +260,8 @@ Is GPT-3 a Psychopath? Evaluating Large Language Models from a Psychological Per
 
 【EMNLP 2022, 预训练纯英语语料包含着其他语言，模型跨语言能力可能来自于数据泄露】Language Contamination Helps Explains the Cross-lingual Capabilities of English Pretrained Models
 
+【Overriding语义先验而使用prompt中的信息是一项涌向能力】Larger language models do in-context learning differently
+
 ## **技术改进** （如生成技术，Prompt工程，指标，可信等）
 
 【个性化风格的prompt学习，OPT】Extensible Prompts for Language Models
