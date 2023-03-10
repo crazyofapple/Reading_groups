@@ -1,3 +1,5 @@
+https://bigscience.huggingface.co/
+
 评价库：https://github.com/EleutherAI/lm-evaluation-harness
 
 生成评价API（Critique: A Simple Evaluation API for Text）：https://docs.inspiredco.ai/critique/
