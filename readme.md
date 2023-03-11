@@ -40,6 +40,9 @@ A General Language Assistant as a Laboratory for Alignment
 
 【必读】Improving language models by retrieving from trillions of tokens
 
+Fine-Tuning Language Models from Human Preferences
+
+Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback
 
 【中英文的大模型，超过GPT-3】GLM-130B: An Open Bilingual Pre-trained Model
 
