@@ -1,3 +1,7 @@
+Compression for AGI - Jack Rae https://www.youtube.com/watch?v=dO4TPJkeaaU
+- the architecture does not adapt in any way to the information content of its input
+- minimum length description / hutter prize / bellard.org/nncp / 1948香农提出语言模型
+
 https://bigscience.huggingface.co/
 
 评价库：https://github.com/EleutherAI/lm-evaluation-harness
