@@ -194,6 +194,7 @@ https://say-can.github.io/
 
  
 - 检索式+LLM的想法是下一步的方向，但是不是唯一的答案还需要看看
+- 【什么时候利用外部知识，也就是external knowledge和参数知识的切换的分析研究】Large Language Models with Controllable Working Memory
 - Rethink Search: Making Domain Experts out of Dilettantes
 - Attributed Question Answering: Evaluation and Modeling for Attributed Large Language Models
 
@@ -273,6 +274,7 @@ Is GPT-3 a Psychopath? Evaluating Large Language Models from a Psychological Per
 
 【加速大模型解码，利用小模型和大模型直接的共识一次调用多次可用，毕竟输入长了会很慢】 Accelerating Large Language Model Decoding with Speculative Sampling
 
+【利用soft prompt减轻微调带来的ICL能力下降，一阶段微调prompt，二阶段微调模型】Preserving In-Context Learning ability in Large Language Model Fine-tuning
 
 【语义解析任务，ICL的样例选择方法，CODEX和T5-large】Diverse Demonstrations Improve In-context Compositional Generalization
 
