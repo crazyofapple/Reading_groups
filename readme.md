@@ -1,8 +1,10 @@
 # **大规模预训练语言模型相关热点方向资源整理**
 
+【大算力技术基础】【大模型技术突破】【大数据质量提升】【开放的创新生态环境】【紧密的团队协作】【强大的工程能力】
+
 **计算的力量**： 很多证据表明，机器学习的进步很大程度上是由计算驱动的，而不是研究，请参考："[The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)"，而且往往会出现[Emergence和Homogenization](https://arxiv.org/abs/2108.07258)现象。
 有研究表明，[人工智能计算使用量大约每3.4个月翻一番，而效率提升每16个月才翻一番](https://openai.com/blog/)。其中计算使用量主要由计算力驱动，而效率则由研究驱动。 
-这意味着计算增长在历史上主导了机器学习和其子领域的进步。尽管如此，未来是否有更颠覆Transformer的架构仍需要我们重视，比如说[S4](https://hazyresearch.stanford.edu/blog/2022-01-14-s4-1)。
+这意味着计算增长在历史上主导了机器学习和其子领域的进步。**GPT-4的出现更加证明了这一点。**尽管如此，未来是否有更颠覆Transformer的架构仍需要我们重视，比如说[S4](https://hazyresearch.stanford.edu/blog/2022-01-14-s4-1)。
 目前的NLP研究热点大部分基于更先进的LLM （~100B, $10^{23}$ FLOPs）。尤其是ChatGPT通过[Alignment](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/lectures/lec22.pdf)技术利用少于预训练几十倍的计算（4.9+60 petaflops/s-days vs 3640 petaflops/s-days）和人类反馈（500k美元, 20k小时，13+33+31k数据，相比于GPT-3的12000k美元
 ）释放了GPT大模型对话能力并火出圈。所以本库对大规模预训练语言模型LLM相关文章进行追踪和归类，更能让我们把握前沿，看清方向。
 
