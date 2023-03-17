@@ -270,6 +270,8 @@ Is GPT-3 a Psychopath? Evaluating Large Language Models from a Psychological Per
 
 【Overriding语义先验而使用prompt中的信息是一项涌向能力】Larger language models do in-context learning differently
 
+【EMNLP 2022 findings】What Language Model to Train if You Have One Million GPU Hours?
+
 ## **技术改进** （如生成技术，Prompt工程，指标，可信等）
 
 【个性化风格的prompt学习，OPT】Extensible Prompts for Language Models
