@@ -12,7 +12,7 @@
 
 --- 
 **论文** (*粗糙类别*)
-- [模型训练和优化](#大模型训练和优化)
+- [模型训练、测试和优化](#大模型训练和优化)
 - [应用与LLM+](#应用与llm)
 - [原理分析](#原理分析)
 - [技术改进](#技术改进-如生成技术prompt工程指标可信等)
@@ -26,6 +26,8 @@
 - 训练，推理，应用工具 (未整理)
 ---
 ## **大模型训练和优化**
+
+【对GPT-4的测试，limitation】Sparks of Artificial General Intelligence: Early experiments with GPT-4
 
 【InstructGPT论文，包括sft,ppo等，最重要的文章之一】Training language models to follow instructions with human feedback
 
