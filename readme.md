@@ -123,7 +123,8 @@ GanLM: Encoder-Decoder Pre-training with an Auxiliary Discriminator
 
  - 【单独使用LLM不足以创建真正强大的APP，将LLM与其他计算或知识来源相结合时，真正的力量才会出现】
 - 【工具】 langchain - Building applications with LLMs through composability
-- 【survey】 Augmented Language Models: a Survey
+- 【survey】 Augmented Language Models: a Survey 
+- Toolformer
 - 类似想法 0. TALM: Tool Augmented Language Models
 - 类似想法 1. DEMONSTRATE–SEARCH–PREDICT:Composing retrieval and language models for knowledge-intensive NLP
 - 类似想法 2. LAMBADA: Backward Chaining for Automated Reasoning in Natural Language
@@ -131,6 +132,7 @@ GanLM: Encoder-Decoder Pre-training with an Auxiliary Discriminator
 - 类似想法 4. Language Models as Agent Models
 - 类似想法 5. Prompting Is Programming: A Query Language For Large Language Models
 - 类似想法 6.【Neurips 22'】Language Model Cascades 
+- 类似想法 7. ART: Automatic multi-step reasoning and tool-use for large language models
 
 【CoT直接生成program code，然后让python interpreter执行】Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks
 
