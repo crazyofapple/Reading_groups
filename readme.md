@@ -279,6 +279,8 @@ Is GPT-3 a Psychopath? Evaluating Large Language Models from a Psychological Per
 
 ## **技术改进** （如生成技术，Prompt工程，指标，可信等）
 
+【用openai的GPT-4训练自己的LLaMA模型打败openai的GPT-4，只能说佩服】Instruction Tuning with GPT-4
+
 Reflexion: an autonomous agent with dynamic memory and self-reflection
 
 【个性化风格的prompt学习，OPT】Extensible Prompts for Language Models
