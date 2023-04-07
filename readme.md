@@ -29,6 +29,7 @@
 
 【对GPT-4的测试，limitation】Sparks of Artificial General Intelligence: Early experiments with GPT-4 
 - [Model Card](https://cdn.openai.com/papers/gpt-4-system-card.pdf)
+- [Video](https://www.youtube.com/watch?v=qbIk7-JPB2c)
 
 【InstructGPT论文，包括sft,ppo等，最重要的文章之一】Training language models to follow instructions with human feedback
 
