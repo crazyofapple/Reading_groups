@@ -119,6 +119,8 @@ GanLM: Encoder-Decoder Pre-training with an Auxiliary Discriminator
 
 【Meta的开源LLaMA模型，7B-65B，训练比通常使用的更多的标记的小模型，在各种推理预算下实现最佳性能】LLaMA: Open and Efficient Foundation Language Models
 
+【通过少量示例教大型语言模型自我调试并解释生成代码，但目前已经经常这样用过】Teaching Large Language Models to Self-Debug
+
 ## **应用与LLM+**
 
 【应用ICL的多步推理方法，很有启发】ReAct: Synergizing Reasoning and Acting in Language Models
