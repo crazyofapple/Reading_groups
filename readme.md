@@ -120,6 +120,9 @@ GanLM: Encoder-Decoder Pre-training with an Auxiliary Discriminator
 【Meta的开源LLaMA模型，7B-65B，训练比通常使用的更多的标记的小模型，在各种推理预算下实现最佳性能】LLaMA: Open and Efficient Foundation Language Models
 
 【通过少量示例教大型语言模型自我调试并解释生成代码，但目前已经经常这样用过】Teaching Large Language Models to Self-Debug
+- 一系列关于大语言模型自我修正能力的论文和工具发布，babyAGI, Auto-GPT
+- 类似想法：0. 【模型记录并反思自己犯过的错误】 Reflexion: an autonomous agent with dynamic memory and self-reflection
+- 类似想法：1. 【模型们通过互相交流迭代修正彼此的输出】 DERA: Enhancing Large Language Model Completions with Dialog-Enabled Resolving Agents
 
 ## **应用与LLM+**
 
