@@ -1,3 +1,7 @@
+https://docs.google.com/spreadsheets/d/1kT4or6b0Fedd-W_jMwYpb63e1ZR3aePczz3zlbJW-Y4
+
+https://www.yuque.com/g/yinyunshenglin/to64fc/tts5wqfhgkd0k221/collaborator/join?token=5nrh0iOrCblTrU5X#
+
 Compression for AGI - Jack Rae https://www.youtube.com/watch?v=dO4TPJkeaaU
 - the architecture does not adapt in any way to the information content of its input
 - minimum length description / hutter prize / bellard.org/nncp / 1948香农提出语言模型

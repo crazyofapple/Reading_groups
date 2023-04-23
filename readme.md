@@ -140,6 +140,7 @@ GanLM: Encoder-Decoder Pre-training with an Auxiliary Discriminator
 - 类似想法 5. Prompting Is Programming: A Query Language For Large Language Models
 - 类似想法 6.【Neurips 22'】Language Model Cascades 
 - 类似想法 7. ART: Automatic multi-step reasoning and tool-use for large language models
+- 自我结合：Generative Agents: Interactive Simulacra of Human Behavior
 
 【CoT直接生成program code，然后让python interpreter执行】Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks
 
@@ -192,6 +193,8 @@ https://say-can.github.io/
 【检索增强的CoT做知识Intensive的任务】Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions
 
 【对比一致搜索 (CCS)无监督识别语言模型中的潜在（二元）知识】Discovering Latent Knowledge in Language Models Without Supervision
+
+【Percy Liang组，可信搜索引擎，只有51.5%的生成句子得到引用的完全支持】Evaluating Verifiability in Generative Search Engines
 
 ## **原理分析**
 
