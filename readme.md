@@ -124,6 +124,10 @@ GanLM: Encoder-Decoder Pre-training with an Auxiliary Discriminator
 - 类似想法：0. 【模型记录并反思自己犯过的错误】 Reflexion: an autonomous agent with dynamic memory and self-reflection
 - 类似想法：1. 【模型们通过互相交流迭代修正彼此的输出】 DERA: Enhancing Large Language Model Completions with Dialog-Enabled Resolving Agents
 
+How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources
+
+LIMA: Less Is More for Alignment
+
 ## **应用与LLM+**
 
 【应用ICL的多步推理方法，很有启发】ReAct: Synergizing Reasoning and Acting in Language Models
@@ -195,6 +199,12 @@ https://say-can.github.io/
 【对比一致搜索 (CCS)无监督识别语言模型中的潜在（二元）知识】Discovering Latent Knowledge in Language Models Without Supervision
 
 【Percy Liang组，可信搜索引擎，只有51.5%的生成句子得到引用的完全支持】Evaluating Verifiability in Generative Search Engines
+
+Progressive-Hint Prompting Improves Reasoning in Large Language Models
+
+Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision
+
+Judging LLM-as-a-judge with MT-Bench and Chatbot Arena
 
 ## **原理分析**
 
