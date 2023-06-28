@@ -1,3 +1,5 @@
+[Explainable Artificial Intelligence](https://interpretable-ml-class.github.io/)
+
 [STS 10SI: Intro to AI Alignment](https://docs.google.com/document/d/1NX0DlZRzD3NP7tBeLjMh76w7-w2s8SxV3wj0P7EYpKY/edit#heading=h.4p5dmkpp2yu9)
 
 [CMU: Advanced Topics in MultiModal Machine Learning](https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2022/schedule/)
