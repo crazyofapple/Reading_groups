@@ -128,6 +128,8 @@ How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resourc
 
 LIMA: Less Is More for Alignment
 
+【Tree-of-thought, 越来越像alphago了】Deliberate Problem Solving with Large Language Models
+
 ## **应用与LLM+**
 
 【应用ICL的多步推理方法，很有启发】ReAct: Synergizing Reasoning and Acting in Language Models
