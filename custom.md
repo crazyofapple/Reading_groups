@@ -1,3 +1,16 @@
+最近要读的：
+1. Becoming self-instruct: introducing early stopping criteria for minimal instruct tuning
+2. Benchmarking Large Language Model Capabilities for Conditional Generation
+3. Generating Benchmarks for Factuality Evaluation of Language Models
+4. Copy Is All You Need
+5. TableGPT: Towards Unifying Tables, Nature Language and Commands into One GPT
+6. AlpaGasus: Training A Better Alpaca with Fewer Data
+7. ARB: Advanced Reasoning Benchmark for Large Language Models
+8. Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback
+9. Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding
+10. Skills-in-Context Prompting: Unlocking Compositionality in Large Language Models
+11. SelfCheck: Using LLMs to Zero-Shot Check Their Own Step-by-Step Reasoning
+    
 https://docs.google.com/spreadsheets/d/1kT4or6b0Fedd-W_jMwYpb63e1ZR3aePczz3zlbJW-Y4
 
 https://www.yuque.com/g/yinyunshenglin/to64fc/tts5wqfhgkd0k221/collaborator/join?token=5nrh0iOrCblTrU5X#
