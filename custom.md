@@ -10,6 +10,11 @@
 9. Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding
 10. Skills-in-Context Prompting: Unlocking Compositionality in Large Language Models
 11. SelfCheck: Using LLMs to Zero-Shot Check Their Own Step-by-Step Reasoning
+12. Don’t Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments
+13. Tree of Thoughts: Deliberate Problem Solving with Large Language Models
+14. LLM+P: Empowering Large Language Models with Optimal Planning Proficiency
+15. Language Models can Solve Computer Tasks
+16. Memory Augmented Large Language Models are Computationally Universal
     
 https://docs.google.com/spreadsheets/d/1kT4or6b0Fedd-W_jMwYpb63e1ZR3aePczz3zlbJW-Y4
 
